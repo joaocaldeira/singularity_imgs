@@ -12,7 +12,7 @@ Container based on recipe by drinkingkazu
 
 %labels
 Maintainer caldeira
-Version ubuntu16.04-py3-tf113-gpu
+Version ubuntu16.04-py3-tf112-gpu
 
 #------------
 # Global installation
