@@ -28,9 +28,9 @@ Version ubuntu16.04-py3-tf113-gpu
 
     # apt-get
     apt-get -y update
-    apt-get -y install python3.7 dpkg-dev g++ gcc binutils libqt4-dev python3-dev python3-tk python3-pip
+    apt-get -y install dpkg-dev g++ gcc binutils libqt4-dev python3-dev python3-tk python3-pip
 
     # pip
-    python3.7 -m pip install --upgrade setuptools pip
-    python3.7 -m pip install tensorflow-gpu==1.13.0
-    python3.7 -m pip install h5py
+    python3 -m pip install --upgrade setuptools pip
+    python3 -m pip install tensorflow-gpu==1.13.0
+    python3 -m pip install h5py
