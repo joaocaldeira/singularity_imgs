@@ -33,4 +33,4 @@ Version ubuntu16.04-py3-tf112-gpu
     # pip
     python3 -m pip install --upgrade setuptools pip
     python3 -m pip install tensorflow-gpu==1.12.0
-    python3 -m pip install h5py scipy scikit-image matplotlib Pillow
+    python3 -m pip install h5py scipy scikit-image matplotlib Pillow keras
