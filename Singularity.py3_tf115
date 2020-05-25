@@ -34,6 +34,6 @@ Version ubuntu16.04-py3-tf114-gpu
     python3 -m pip install --upgrade setuptools pip
     python3 -m pip install tensorflow-gpu==1.15
     python3 -m pip install h5py scipy scikit-learn scikit-image keras==2.1 numpy matplotlib colorcet
-    git clone https://github.com/raghakot/keras-vis.git
+    git clone https://github.com/joaocaldeira/keras-vis.git
     cd keras-vis
     python3 setup.py install
